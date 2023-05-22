@@ -23,8 +23,7 @@ Aqui esta um dos projetos que eu desenvolvi:
 
 Um aplicativo de guia de filmes usando HTML, CSS e JavaScript. O aplicativo usa a API do The Movie Database para buscar informações sobre filmes populares, em cartaz ou por gênero. O usuário pode ver os detalhes de cada filme, como sinopse, elenco, avaliação e trailer.
 
-[Repositório](https://github.com/Raijoia/Movie-Guide-App-With-Javascript) | [Página](https://movie-guide.com.br)
-
+[Repositório](https://github.com/Raijoia/Movie-Guide-App-With-Javascript) | [Página](https://raijoia.github.io/Movie-Guide-App-With-Javascript/)
 
 ## Contato
 
