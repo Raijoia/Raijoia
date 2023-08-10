@@ -10,6 +10,8 @@ Sou um estudante de Ciências da Computação na Universidade São Judas Tadeu d
 - HTML
 - CSS
 - JavaScript
+- React.js
+- Node.js
 - Python
 - WordPress
 - Photoshop
