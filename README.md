@@ -11,11 +11,7 @@ Sou um desenvolvedor front-end com conhecimentos em HTML, CSS, JavaScript, React
 - CSS
 - JavaScript
 - React.js
-- Node.js
-- Python
-- WordPress
-- Photoshop
-- Packet Tracer
+- Java
 
 ## Projetos
 
@@ -25,7 +21,7 @@ Aqui esta um dos projetos que eu desenvolvi:
 
 Um site para montar o seu time de League of Legends, usando html, css, javascript, react e git
 
-[Repositório](https://github.com/Raijoia/your-team-lol) | [Página](https://raijoia.github.io/your-team-lol/)
+[Repositório](https://github.com/Raijoia/your-team-lol) | [Página](https://your-team-86xw6hlpx-raijoia.vercel.app)
 
 ## Contato
 
