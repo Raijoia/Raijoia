@@ -11,6 +11,7 @@ Sou um desenvolvedor front-end com conhecimentos em HTML, CSS, JavaScript, React
 - CSS
 - JavaScript
 - React.js
+- TypeScript
 - Java
 
 ## Projetos
