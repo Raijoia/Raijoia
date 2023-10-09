@@ -11,10 +11,11 @@ Sou um desenvolvedor front-end com conhecimentos em HTML, CSS, JavaScript, TypeS
 - React.js
 - TypeScript
 - JavaScript
+- Java
+- MySql
+- Node.js
 - HTML
 - CSS
-- Java
-- Node.js
 
 ## Projetos
 
@@ -35,6 +36,7 @@ Se você quiser entrar em contato comigo, pode me enviar um e-mail para raijoiam
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a> </p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a> </p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/mysql-original.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Raijoia&show_icons=true&include_all_commits=true&line_height=20&hide_border=true&theme=graywhite" width="440"/>
