@@ -5,15 +5,17 @@
 
 Sou um desenvolvedor front-end com conhecimentos em HTML, CSS, JavaScript, TypeScript, React, Java e Git. Tenho interesse em criar sites e aplicativos web dinâmicos, responsivos e interativos, utilizando as melhores práticas e ferramentas do mercado.
 
-## Habilidades
+## Tecnologias
 
 - Next.js
 - React.js
 - TypeScript
 - JavaScript
 - Java
+- SpringBoot
 - MySql
 - Node.js
+- CI/CD
 - HTML
 - CSS
 
