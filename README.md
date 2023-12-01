@@ -13,6 +13,7 @@ Sou um desenvolvedor front-end com conhecimentos em HTML, CSS, JavaScript, TypeS
 - JavaScript
 - Java
 - SpringBoot
+- API Rest
 - MySql
 - Node.js
 - CI/CD
