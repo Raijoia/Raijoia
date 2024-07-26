@@ -9,13 +9,13 @@
   <a href="https://www.linkedin.com/in/raijoia/">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
   </a>
-  <a href="https://api.whatsapp.com/send?phone=5511977733585">
+  <a href="https://api.whatsapp.com/send?phone=5511944270875">
     <img align="center" src="https://img.shields.io/badge/Whatsapp-%235865F2.svg?style=for-the-badge&logo=whatsapp&logoColor=green" alt="Whatsapp"/>
   </a>
 <br>
 <br>
 <br>
-    <a align="center" href="https://portfolio-2-0-fw3egarfq-raijoia.vercel.app">
+    <a align="center" href="raijoiamv.online">
     Meu Portfólio!
     </a>      
 </div>
