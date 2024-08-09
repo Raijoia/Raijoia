@@ -2,7 +2,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raijoia&layout=compact&langs_count=8&theme=algolia&count_private=true" width="300"align="right"/>
   <div align="left" width="375">
     <p>
-    Meu nome é Raí Joia, sou um entusiasta em aprender coisas novas, atualmente curso Ciências da Computação na USJT(Mooca) em SP no 3° semestre com previsão de término para dez/2026 e faço cursos extras na plataforma da Alura.
+    Meu nome é Raí Joia, sou um entusiasta em aprender coisas novas, atualmente curso Ciências da Computação na USJT(Mooca) em SP no 4° semestre com previsão de término para dez/2026 e faço cursos extras na plataforma da Alura.
     </p>
     
 <div align="left">
